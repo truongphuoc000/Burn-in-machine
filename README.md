@@ -5,6 +5,7 @@
 
 - Sản phẩm được được vẽ và hoàn thiện bởi Phuoc Nguyen
 - Quá trình hoàn thành trải qua nhiều lần demo và thử nghiệm để ra một filehoàn chỉnh và độ chính xác cao
+- File .f3z và .step có thể chỉnh sửa lại bằng phần mềm Fusion 360 hoặc phần mềm hỗ trợ 
 ## Thông số kĩ thuật 
 - Số switch lắp tối đa : 36
 - Tần suất  : 3 lần ấn / 1 giây
