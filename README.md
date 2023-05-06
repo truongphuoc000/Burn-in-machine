@@ -4,8 +4,14 @@
 - Việc này dẫn đến sự ra đời của các máy burn in switch tự động. Những máy này có nhiều thiết kế khác nhau tuy nhiên đều làm 1 việc là bấm liên tục vào các switch trong 1 thời gian dài để giả lập việc gõ phím.
 
 - Sản phẩm được được vẽ và hoàn thiện bởi Phuoc Nguyen
-- Quá trình hoàn thành trải qua nhiều lần demo và thử nghiệm để ra một file
-hoàn chỉnh và độ chính xác cao
+- Quá trình hoàn thành trải qua nhiều lần demo và thử nghiệm để ra một filehoàn chỉnh và độ chính xác cao
+## Thông số kĩ thuật 
+- Số switch lắp tối đa : 36
+- Tần suất  : 3 lần ấn / 1 giây
+- Độ ồn khi máy hoạt động : 55-60 db
+- Kích thước : 16x10x7 cm ( dài x rộng x cao )
+- Khối lượng : 300 gam
+
 ## Hình ảnh render
 ![Burn in 3x3](https://lh3.googleusercontent.com/ByvcHulrprQAG2TGNsPhgJ6hECFa1WPppcfOu_RLV9ok9kB6XqVlX8H8LQSduYecKsRFaNcnZLMgHuLK70P_I3I9s-vq6Vr2yoTq-9tdqMmKo87g6WusdDa8NqxmLJ0JY7vawuc-tQlF3-6dGF9FbCkmBmqTzA)
 ## Hình ảnh thực thế khi đã hoàn thành
