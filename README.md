@@ -7,4 +7,4 @@
 - Quá trình hoàn thành trải qua nhiều lần demo và thử nghiệm để ra một file
 hoàn chỉnh và độ chính xác cao
 # Hình ảnh render
-[Burn in 3x3](https://lh3.googleusercontent.com/ByvcHulrprQAG2TGNsPhgJ6hECFa1WPppcfOu_RLV9ok9kB6XqVlX8H8LQSduYecKsRFaNcnZLMgHuLK70P_I3I9s-vq6Vr2yoTq-9tdqMmKo87g6WusdDa8NqxmLJ0JY7vawuc-tQlF3-6dGF9FbCkmBmqTzA)
+![Burn in 3x3](https://lh3.googleusercontent.com/ByvcHulrprQAG2TGNsPhgJ6hECFa1WPppcfOu_RLV9ok9kB6XqVlX8H8LQSduYecKsRFaNcnZLMgHuLK70P_I3I9s-vq6Vr2yoTq-9tdqMmKo87g6WusdDa8NqxmLJ0JY7vawuc-tQlF3-6dGF9FbCkmBmqTzA)
