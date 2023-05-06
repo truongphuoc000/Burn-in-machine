@@ -16,3 +16,4 @@
 ![Burn in 3x3](https://lh3.googleusercontent.com/ByvcHulrprQAG2TGNsPhgJ6hECFa1WPppcfOu_RLV9ok9kB6XqVlX8H8LQSduYecKsRFaNcnZLMgHuLK70P_I3I9s-vq6Vr2yoTq-9tdqMmKo87g6WusdDa8NqxmLJ0JY7vawuc-tQlF3-6dGF9FbCkmBmqTzA)
 ## Hình ảnh thực thế khi đã hoàn thành
 ![Burn in 3x3](https://lh4.googleusercontent.com/SUSDRbE_8iRTDfmr4tiEAbzLlCaLL2_AWzMc1LvQlsmPqcVygu5I5nhH0-ffmp5d-8h469qMB6sVeUe7MHiMqAz722zZ59Q5atoq9Nf7qP8dW2XED9Q6Bpc0NwegRdgX8tArJ61S0jJDo2AUK61y7SezJzMBEg)
+## Sản phẩm được hoàn thiện vào thời gian năm 2022 và số lượng bán ra được trên 100 
